@@ -5,6 +5,7 @@ acestream://2bac25f323be1de8208d6554337c2c8256bc32bc
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 1080", M.Liga De Campeones 1080
 acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
+
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 720", M.Liga De Campeones 720
 acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47
 
@@ -50,7 +51,7 @@ acestream://33369549c635dabdb78b95c478c21fcc9e4ee854
 #EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="LIGA" tvg-id="M.Liga 1080 Multi", M.Liga 1080 Multi
 acestream://d47addf5e467cbf102ba759600303c21efb1deeb
 
-#EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="LIGA" tvg-id="M.Liga 1080", M.Liga 1080
+#EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="LIGA" tvg-id="M.Liga 1080", M.Liga 1080 Multi 2
 acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
 
 #EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="LIGA" tvg-id="M.Liga 720", M.Liga 720
