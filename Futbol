@@ -1,16 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 1080 Multi", M.Liga De Campeones 1080 Multi
-acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones M_HD", M.Liga De Campeones M_HD
-acestream://18f6a6d2f12af51f1ce4f6c9af0752fa0ff74c5b
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones M", M.Liga De Campeones M
-acestream://efb3b318c80101633250dbc92d442d391dcc7b19
+acestream://2bac25f323be1de8208d6554337c2c8256bc32bc
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 1080", M.Liga De Campeones 1080
-acestream://2bac25f323be1de8208d6554337c2c8256bc32bc
+acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 720", M.Liga De Campeones 720
 acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47
@@ -55,22 +49,13 @@ acestream://57e284a3c13100baeff7a88dc50949585c9f1277
 acestream://33369549c635dabdb78b95c478c21fcc9e4ee854
 
 #EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="LIGA" tvg-id="M.Liga 1080 Multi", M.Liga 1080 Multi
-acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
-
-#EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="LIGA" tvg-id="M.Liga 1080 Multi", M.Liga 1080 Multi
 acestream://d47addf5e467cbf102ba759600303c21efb1deeb
 
 #EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="LIGA" tvg-id="M.Liga 1080", M.Liga 1080
-acestream://c22bfcc2a70b2a3f447d9b30c52e617946b03888
+acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
 
 #EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="LIGA" tvg-id="M.Liga 720", M.Liga 720
 acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664
-
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-2-1836.png" group-title="LIGA" tvg-id="M.Liga 2 1080", M.Liga 2 1080
-acestream://37d42d2b5d2278e6bb5810329a5f220867b3cf0c
-
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-2-1836.png" group-title="LIGA" tvg-id="M.Liga 2 720", M.Liga 2 720
-acestream://91cf24543ac5a3dcd4a3557ce52de3f50ee6cb18
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BbSxDVxS/sodapdf-converted.png" group-title="LIGA" tvg-id="M.Liga Bar 1080", M.Liga Bar 1080
 acestream://ed2a15319345fb0739590faf88d8be4cb1663bf3
@@ -78,23 +63,17 @@ acestream://ed2a15319345fb0739590faf88d8be4cb1663bf3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BbSxDVxS/sodapdf-converted.png" group-title="LIGA" tvg-id="M.Liga Bar 720", M.Liga Bar 720
 acestream://e3249feb41ca1e68f38cf9bd9a196d6b3f873032
 
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-2-1836.png" group-title="LIGA" tvg-id="M.Liga 2 1080 Multi", M.Liga 2 1080 Multi
+acestream://37d42d2b5d2278e6bb5810329a5f220867b3cf0c
+
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-2-1836.png" group-title="LIGA" tvg-id="M.Liga 2 720", M.Liga 2 720
+acestream://91cf24543ac5a3dcd4a3557ce52de3f50ee6cb18
+
 #EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1.png?fit=440%2C264&ssl=1" group-title="LIGA" tvg-id="Dazn La Liga 1080 Multi", Dazn La Liga 1080 Multi
 acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1.png?fit=440%2C264&ssl=1" group-title="LIGA" tvg-id="Dazn La Liga 1080 Multi", Dazn La Liga 1080 Multi
-acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-2-color.png?fit=440%2C264&ssl=1" group-title="LIGA" tvg-id="Dazn La Liga 2 1080 Multi", Dazn La Liga 2 1080 Multi
-acestream://37d42d2b5d2278e6bb5810329a5f220867b3cf0c
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-2-color.png?fit=440%2C264&ssl=1" group-title="LIGA" tvg-id="Dazn La Liga 2 720 Multi", Dazn La Liga 2 720 Multi
-acestream://91cf24543ac5a3dcd4a3557ce52de3f50ee6cb18
-
 #EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1.png?fit=440%2C264&ssl=1" group-title="LIGA" tvg-id="Dazn La Liga 720", Dazn La Liga 720
 acestream://05b9cb49947d3b78bbc66671c6e16ba0ae3b60b6
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1.png?fit=440%2C264&ssl=1" group-title="LIGA" tvg-id="Dazn La Liga", Dazn La Liga
-acestream://87f6fbf3b63bb6bd36eea2793a0a2a647ec287dd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/LaLiga_SmartBank_TV_logo.svg/1200px-LaLiga_SmartBank_TV_logo.svg.png" group-title="LIGA" tvg-id="M.Liga Smartbank 1080 Multi", M.Liga Smartbank 1080 Multi
 acestream://7791ba828c0226d8f54cef1611889d29fb333247
@@ -108,8 +87,8 @@ acestream://cf6249379184d88a61f9db617341c6b6e6abb342
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/LaLiga_SmartBank_TV_logo.svg/1200px-LaLiga_SmartBank_TV_logo.svg.png" group-title="LIGA" tvg-id="M.Liga Smartbank 2 720", M.Liga Smartbank 2 720
 acestream://d9cf1776ec4443e88aab3ca4b57647b00b4e439e
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/1K_F.C_logo.png" group-title="King League" tvg-id="Kings League", Kings League
-acestream://4cc5adc2fbcc4bb5a9f436130c5ec349d172cc2b
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/LaLiga_SmartBank_TV_logo.svg/1200px-LaLiga_SmartBank_TV_logo.svg.png" group-title="LIGA" tvg-id="M.Liga Smartbank 3 1080", M.Liga Smartbank 3 1080
+acestream://1104426e14b649eb23fee16698768544285de478
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/2560px-DAZN_1_Logo.svg.png" group-title="DAZN" tvg-id="DAZN 1 1080", DAZN 1 1080
 acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
@@ -130,69 +109,21 @@ acestream://bbbbc306280b2161e6c3cfa83cc9aef18f046c4a
 acestream://149a38e333de920753f1388c43247283bdb05f5b
 
 #EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" group-title="DAZN" tvg-id="DAZN F1 1080", DAZN F1 1080
-acestream://60cf60019aeef9af6183dd05af1b89e25594ac14
+acestream://ffaa5f556ee0497ad905208d317b1f3ed4c0914b
 
 #EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" group-title="DAZN" tvg-id="DAZN F1 1080", DAZN F1 1080
 acestream://5c2c4c9d12d5ae042d41f886edfd2bfd3cec18a2
 
 #EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" group-title="DAZN" tvg-id="DAZN F1 720", DAZN F1 720
-acestream//a52bf7c28df63995ad427c32ebf1e517445720bb
-
-#EXTINF:-1 tvg-logo="https://www.pngwing.com/es/free-png-avpei" group-title="BT Sport" tvg-id="BT Sport1", BT Sport1
-acestream://ab2b69970c0629bf0fa30dd61b0072adb4ac4d9c
-
-#EXTINF:-1 tvg-logo="https://www.pngwing.com/es/free-png-avpei" group-title="BT Sport" tvg-id="Sport tv4", Sport tv4
-acestream://c300ecb07d854c1730b04ea022c3fb0a184d7801
-
-#EXTINF:-1 tvg-logo="https://www.pngwing.com/es/free-png-avpei" group-title="BT Sport" tvg-id="Sport 360", Sport 360
-acestream://e1d74c79ab7b3991b3ed40b199abd0e8eb0ae511
-
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/signo-interrogacion-moderno-pagina-ayuda-soporte_1017-27395.jpg?w=360" group-title="Evento del momento" tvg-id="Evento del momento 1080", Evento del momento 1080
-acestream://5c19b80926aa6dd5ff6ff2ba086bf6caa39c56fa
-
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/signo-interrogacion-moderno-pagina-ayuda-soporte_1017-27395.jpg?w=360" group-title="Evento del momento" tvg-id="Evento del momento 720", Evento del momento 720
-acestream://172a0843a8f136659ab139af2d247bcfac602d05
-
-#EXTINF:-1 tvg-logo="" group-title="Varios" tvg-id="ESPN ARGENTINA", ESPN ARGENTINA
-acestream://2492f8aa7cd7c4800e7b22c4ecba05e34c18be00
-
-#EXTINF:-1 tvg-logo="" group-title="Varios" tvg-id="ESPN 3 ARGENTINA", ESPN 3 ARGENTINA
-acestream://b9fdac2069dae003e7a2ea94bc3a069b28fb7e1e
-
-#EXTINF:-1 tvg-logo="" group-title="Varios" tvg-id="ESPN 2", ESPN 2
-acestream://e40b29774fdfd953751a71f5695f647726623b9d
-
-#EXTINF:-1 tvg-logo="" group-title="Varios" tvg-id="ESPN 3", ESPN 3
-acestream://b97f5975dbd067655432512d4693b417bc85a714
-
-#EXTINF:-1 tvg-logo="" group-title="Varios" tvg-id="ESPN Extra URUGUAY", ESPN Extra URUGUAY
-acestream://9c3feb380cd9bcf9dcb7a9454ca8eb7962201612
-
-#EXTINF:-1 tvg-logo="" group-title="Varios" tvg-id="Fox 3 Argentina", FOX 3 Argentina
-acestream://9c3feb380cd9bcf9dcb7a9454ca8eb7962201612
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mgo.png" group-title="Varios" tvg-id="M. Golf - 1080", M. Golf - 1080
-acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
-
-#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/d2212bf5-0999-4b88-a137-e70f998eeada/402020668010211.png?to=crop&type=webp&r=540x405&q=85" group-title="Varios" tvg-id="beIN Sport ñ", beIN SPORT ñ
-acestream://4853a0bd4fd17f85f563267feb6aec3319a3ac1d
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es.png" group-title="Varios" tvg-id="Eurosport 1 - 1080", Eurosport 1 - 1080
-acestream://c9ee7c95e7a2e9cd0e848b1f70848453652bebc2
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es2.png" group-title="Varios" tvg-id="Eurosport 2 - 1080", Eurosport 2 - 1080
-acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01
+acestream://a4d17dec3b341fb4c10afab81068dca29c5e9a4a
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mev.png" group-title="TDT" tvg-id="Ellas #V", Ellas #V
 acestream://107acd31600d0fdcdbac2065171c39042f3369c7
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Telecinco-hd.png" group-title="TDT" tvg-id="Telecinco 1080", Telecinco 1080
-acestream://bb1982ae8d2d409d4ccd7a9f498042684e3532b5
-
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/meventos.png" group-title="TDT" tvg-id="Eventos de Movistar", Eventos de Movistar
 acestream://0a94ca1f63e144862248f4f00ea9044f5a5d0971
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="TDT" tvg-id="Gol TV - 1080", Gol TV - 1080
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golplay.png" group-title="TDT" tvg-id="Gol Play - 1080", Gol Play - 1080
 acestream://d4627f7b6b237a8556819445b3283d866caceca2
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/rm.png" group-title="TDT" tvg-id="Real Madrid TV - 1080", Real Madrid TV - 1080
@@ -204,20 +135,17 @@ acestream://e3362507e7c732b9461bd7bdc74bd054c49b3ba7
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/btv.png" group-title="TDT" tvg-id="Barça Tv 720", Barça TV 720
 acestream://4853a0bd4fd17f85f563267feb6aec3319a3ac1d
 
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/btv.png" group-title="TDT" tvg-id="beIN SPORTS ñ", beIN SPORTS ñ
+acestream://4853a0bd4fd17f85f563267feb6aec3319a3ac1d
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mgo.png" group-title="Varios" tvg-id="M. Golf - 1080", M. Golf - 1080
+acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
+
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/teledeporte.png" group-title="TDT" tvg-id="Teledeporte - 1080", Teledeporte - 1080
 acestream://5a272a468eaf25feb032e2c5d377c6276b2299c7
 
 #EXTINF:-1 tvg-logo="https://fotografias-mega.atresmedia.com/clipping/cmsimages01/2022/07/06/F8E798E8-EDE7-413A-9D2E-AA779E299B2E/mega_27.jpg" group-title="TDT" tvg-id="Mega - 1080", Mega - 1080
 acestream://eca5dfd22ce7fc352205749f78ac2c1dff5b5a94
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/xL9g00tgdeqwxSPAPhbbKUm52ou8Re6Fg1oV8neboCUUZEtNlKi_2Jfr06oiy3IAZITG1evk=s900-c-k-c0x00ffffff-no-rj" group-title="TDT" tvg-id="#Vamos - 1080", #Vamos - 1080
-acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/xL9g00tgdeqwxSPAPhbbKUm52ou8Re6Fg1oV8neboCUUZEtNlKi_2Jfr06oiy3IAZITG1evk=s900-c-k-c0x00ffffff-no-rj" group-title="TDT" tvg-id="#Vamos - 720", #Vamos - 720
-acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1483729360414810113/IG-lTzNZ_400x400.png" group-title="TDT" tvg-id="#0 - 1080", #0 - 1080
-acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/dOC-QZSgvz3pwKQQjK5x02qAo8Hy78Io57y11u7zZQLWbhrwqRBpKqIPDBaDU7F4LCc" group-title="Sport Tv" tvg-id="Sport Tv 1 - 1080", Sport Tv 1 - 1080
 acestream://c95422bc904378be0b035eba721d5e6a004f7d79
@@ -228,11 +156,17 @@ acestream://a1bd609a2d64d1ee4b81af32464b36848fe36541
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/dOC-QZSgvz3pwKQQjK5x02qAo8Hy78Io57y11u7zZQLWbhrwqRBpKqIPDBaDU7F4LCc" group-title="Sport Tv" tvg-id="Sport Tv 3 - 1080", Sport Tv 3 - 1080
 acestream://6c526d4cc3ca77cfbc10c548aa0d49944e56f3ff
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/WRC.png" group-title="RALLY" tvg-id="WRC +", WRC +
-acestream://c1811f196da78c5d8d28cd4a7c4c3f797f55c69c
+EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es.png" group-title="Varios" tvg-id="Eurosport 1 - 1080", Eurosport 1 - 1080
+acestream://c9ee7c95e7a2e9cd0e848b1f70848453652bebc2
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/WRC.png" group-title="RALLY" tvg-id="WRC +", WRC +
-acestream://1337384461e30979b22c63ca0c9e2804fb3e1091
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es2.png" group-title="Varios" tvg-id="Eurosport 2 - 1080", Eurosport 2 - 1080
+acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/xL9g00tgdeqwxSPAPhbbKUm52ou8Re6Fg1oV8neboCUUZEtNlKi_2Jfr06oiy3IAZITG1evk=s900-c-k-c0x00ffffff-no-rj" group-title="TDT" tvg-id="#Vamos - 1080", #Vamos - 1080
+acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/xL9g00tgdeqwxSPAPhbbKUm52ou8Re6Fg1oV8neboCUUZEtNlKi_2Jfr06oiy3IAZITG1evk=s900-c-k-c0x00ffffff-no-rj" group-title="TDT" tvg-id="#Vamos - 720", #Vamos - 720
+acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem1.png" group-title="DEPORTES" tvg-id="M.Deportes 1080", M.Deportes 1080
 acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
@@ -255,27 +189,6 @@ acestream://ada5b10ab38ea2ad9f4fc8ccacad89d70af48c3c
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem6.png" group-title="DEPORTES" tvg-id="M.Deportes 6 1080", M.Deportes 6 1080
 acestream://f41bd6f3eed3fa2f561e39a9865df8ab354bf486
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem1.png" group-title="SUPERCOPA" tvg-id="Supercopa Multi 1080", Supercopa Multi 1080
-acestream://8b2c2ef8925b1c659ccd3922390617a98d9ee6e1
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem1.png" group-title="SUPERCOPA" tvg-id="Supercopa Multi 1080", Supercopa Multi 1080
-acestream://c1a176e0165da407199bb9f8fb3acc2aaab2d3d1
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem1.png" group-title="SUPERCOPA" tvg-id="Supercopa 1080", Supercopa 1080
-acestream://95d9967309d74d3dbd87c66cf374666bb9da9f07
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem1.png" group-title="SUPERCOPA" tvg-id="Supercopa 720", Supercopa 720
-acestream://a16f0078ccb46ba65aaa175ad823e47ec31ab464
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem1.png" group-title="SUPERCOPA" tvg-id="Supercopa HD", Supercopa HD
-acestream://e9bc4bcd896339174c25ca95d4828af39f1f7706
-
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v2/eu/image?id=762962501269_image-header_pDach_1662550975000" group-title="Alemania" tvg-id="(DE) DAZN 1", (DE) DAZN 1
-acestream://897e73c9d578848f596585314ecb9ae067c0e229
-
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v2/eu/image?id=762965573106_image-header_pDach_1662550976000" group-title="Alemania" tvg-id="(DE) DAZN 2", (DE) DAZN 2
-acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/BT_Sport_logo_2019.svg" group-title="UK" tvg-id="BT SPORT 1", BT SPORT 1
 acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
 
@@ -297,20 +210,22 @@ acestream://4903ca695edb64bc72ae29eb85a5333ba0139537
 #EXTINF:-1 tvg-logo="https://sport-onthebox.com/wp-content/uploads/2019/08/Premier-Sports-2.png" group-title="UK" tvg-id="Premier Sports 2", Premier Sports 2
 acestream://4903ca695edb64bc72ae29eb85a5333ba0139537
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1551576769735565312/p29DD_wc_400x400.jpg" group-title="NBA" tvg-id="NBA TV", NBA TV 
+acestream://e72d03fb9694164317260f684470be9ab781ed95
+
+
 #EXTINF:-1 tvg-logo="https://ia800808.us.archive.org/17/items/SkySportsPremierLeague_201708/sky%20sports%20premier%20league.png" group-title="UK" tvg-id="Sky Sports Premier League", Sky Sports Premier League
 Acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e
 
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky-sports-main-event-logo.png" group-title="UK" tvg-id="Sky Sports Maint Event", Sky Sports Maint Event
 Acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sky_Sport_Arena_-_Logo_2020.svg/1280px-Sky_Sport_Arena_-_Logo_2020.svg.png" group-title="UK" tvg-id="Sky Sports Arena", Sky Sports Arena
-acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/BT_Sport_logo_2019.svg" group-title="UK" tvg-id="BT SPORT 1 FHD", BT SPORT 1 FHD
-acestream://6adb56e860967c5b1ba08e1bcb1eb2c4245e5842
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/e/u/r/xeurosport1.jpg.pagespeed.ic.onsGVq_zan.jpg" group-title="Varios" tvg-id="Eurosport 1", Eurosport 1
+acestream://c9ee7c95e7a2e9cd0e848b1f70848453652bebc2
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1551576769735565312/p29DD_wc_400x400.jpg" group-title="NBA" tvg-id="NBA TV", NBA TV 
-acestream://e72d03fb9694164317260f684470be9ab781ed95
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/e/u/r/xeurosports2.jpg.pagespeed.ic.WVtAf7aR5M.jpg" group-title="Varios" tvg-id="Eurosport 2", Eurosport 2
+acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01
 
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image24452744424.webp" group-title="Rumania" tvg-id="Digi Sport 1", Digi Sport 1
 acestream://51cee9d0b29dbd9104e9a3971fd2569419eab159
@@ -321,44 +236,32 @@ acestream://b7db2c0404f90f99b01a8875713c047cd07595f7
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image41244484205.jpg" group-title="Rumania" tvg-id="Digi Sport 3", Digi Sport 3
 acestream://b9dc6fdeaca5a5f4275db80d68536e023ce4ea06
 
-#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image59616610408.jpg" group-title="Rumania" tvg-id="Digi Sport 4", Digi Sport 4
-http://37.49.230.48:8080/Miglior/taJA1d0G6K0WWytw/4219
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="Bein France" tvg-id="Bein Sport 2", Bein Sport 2
+acestream://edb507e38394d614c9ff55805c9d354ae13210bc
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Logo_Antena_1_%282010%29.svg/1200px-Logo_Antena_1_%282010%29.svg.png" group-title="Rumania" tvg-id="Antena 1", Antena 1
-acestream://257601c048fac7b7b5272f4e97369533127d0544
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="Bein France" tvg-id="Bein Sport 3", Bein Sport 3
+acestream://731bd3336ec0986ff9100efe40dbaf1473a22cf8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sky_Sport_Arena_-_Logo_2020.svg/1280px-Sky_Sport_Arena_-_Logo_2020.svg.png" group-title="UK" tvg-id="Sky Sports Arena", Sky Sports Arena
+acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c
+
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=logo_sport%2Fmatch_ru_futbol_1.jpg" group-title="Rusia" tvg-id="Match Football 1", Match Football 1 
+acestream://b28db77c5084da7993395d77df96c30bb134f0a9
+
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a734.png" group-title="Rusia" tvg-id="Match Football 2", Match Football 2
+acestream://3832fe79145c6ca781d8c4fc4badab59cdad0382
+
+EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-match-football-3-735.png" group-title="Rusia" tvg-id="Match Football 3", Match Football 3
+acestream://b6baa046075d82da300fc1b16de96067a8b9540e
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Antena_3_Rumania_2005.png/revision/latest?cb=20200827193717&path-prefix=es" group-title="Rumania" tvg-id="Antena 3", Antena 3
-acestream://784e028c661114e5edc5041f9e4b3e5ecf2e0b2a/
+acestream://4a81d8b39f7e9cca741f6046037a8bdafce80dd0
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Logo_Pro_TV_%282017%29.svg/1200px-Logo_Pro_TV_%282017%29.svg.png" group-title="Rumania" tvg-id="Pro Tv", Pro Tv
-acestream://6aa9b9e06e1a2ca844003ec5340725ea5be399c6
+acestream://138adb254ce0d35da78982320020e5ea121b64ee
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/Kanal_D_HD_2011.png/revision/latest?cb=20200814051325&path-prefix=es" group-title="Rumania" tvg-id="Kanal D HD", Kanal D HD
-acestream://f15354d90dcc2c4b015aa20f0a473f408c19f548/
-
-#EXTINF:-1 tvg-logo="https://net4me.info/wp-content/uploads/2020/07/elevensports1_4k_1-632x221-1.png" group-title="Polonia" tvg-id="Eleven Sports 1 4K", Eleven Sports 1 4K
-acestream://7ac2d74ef6df9d15012992d7e0e635a95f58c652
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canal%2B_Sport_2015.png/640px-Canal%2B_Sport_2015.png" group-title="Polonia" tvg-id="Canal+", Canal+ Sport
-acestream://cc7b8c39f70aa342248d02c8ab55bafdb4116ed7
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Canal%2B_Sport_2_PL.png/400px-Canal%2B_Sport_2_PL.png" group-title="Polonia" tvg-id="Canal+ 2", Canal+ Sport 2
-acestream://6390b1ab967a25777ea2dde1d41b7400cc0601d3
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/d/de/Canal%2B_Sport_3_%282019-.n.v.%29.png/revision/latest?cb=20201129201855" group-title="Polonia" tvg-id="Canal+ 3", Canal+ Sport 3
-acestream://3e87464ed8c42ed14464461ea08860a3040a8944
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/9/93/Canal%2B_Sport_4_%282019-.n.v.%29.png/revision/latest/scale-to-width-down/1200?cb=20201130101752" group-title="Polonia" tvg-id="Canal+ 4", Canal+ Sport 4
-acestream://04448c3ca0b7518819491e468adbabc8a2551bd7
-
-#EXTINF:-1 tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-2.png" group-title="Polonia" tvg-id="Eleven Sports 2", Eleven Sports 2
-acestream://54a4a28882d3cae1ca19de5d4b022ebea40351f9
-
-#EXTINF:-1 tvg-logo="https://www.mm-eu.tv/wordpress/wp-content/uploads/2019/10/ELEVEN_Channel_3.jpg" group-title="Polonia" tvg-id="Eleven Sports 3", Eleven Sports 3
-acestream://b146ee4b6e16c9df58e27bd02ffd6cea840ff212
-
-#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=katkotati%2Flogo_chaine%2Fportugal%2Feleven+sports+4+portugal.gif" group-title="Polonia" tvg-id="Eleven Sports 4", Eleven Sports 4
-acestream://458a0ddd7d193f6d2750cd14d03a47f47a808e09
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Polsat_Sport_Premium_1_2021_gradient.svg/1200px-Polsat_Sport_Premium_1_2021_gradient.svg.png" group-title="Polonia" tvg-id="Polsat Sport Premium 1", Polsat Sport Premium 1
+acestream://4ce55db7e578ff52a6e526cf610e477464b8a99f 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Magenta_Sport_Logo_2020.svg/640px-Magenta_Sport_Logo_2020.svg.png" group-title="Alemania" tvg-id="Magenta Sport 1", Magenta Sport 1
 acestream://501141c649a2b78c4965cbf3257224181cc55072
@@ -407,3 +310,34 @@ acestream://45eab0695ce13265687ace5e5bcef8d8ee8bc69a
 
 #EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=logo_sport%2Fziggo_sport_voetball.jpg" group-title="Belgica" tvg-id="Ziggo Sport Voetbal", Ziggo Sport Voetbal
 acestream://95769f95c6af45e8ec46526c3be1104d0a0c7b91
+
+#EXTINF:-1 tvg-logo="https://i.blogs.es/af855d/gol_mundial-04/840_560.jpg" group-title="Gol Mundial" tvg-id="Gol Mundial 1 1080", Gol Mundial 1 1080
+acestream://3e17ba9f230b64dbaa6538b6d36b85cc3f4cd59e
+
+#EXTINF:-1 tvg-logo="https://i.blogs.es/af855d/gol_mundial-04/840_560.jpg" group-title="Gol Mundial" tvg-id="Gol Mundial 1 720", Gol Mundial 1 720
+acestream://16150dafbbd4515a8b539a8e21e0f083f86416da
+
+#EXTINF:-1 tvg-logo="https://i.blogs.es/af855d/gol_mundial-04/840_560.jpg" group-title="Gol Mundial" tvg-id="Gol Mundial 2 720", Gol Mundial 2 720
+acestream://2aab272d05089ce881538a1b3288d391de152d53
+
+#EXTINF:-1 tvg-logo="https://i.blogs.es/af855d/gol_mundial-04/840_560.jpg" group-title="Gol Mundial" tvg-id="Gol Mundial 1 1080 (Opción 2)", Gol Mundial 1 1080 (Opción 2)
+acestream://7031601915e3d33893cb324c89055b91b9ec5574
+
+#EXTINF:-1 tvg-logo="https://i.blogs.es/af855d/gol_mundial-04/840_560.jpg" group-title="Gol Mundial" tvg-id="Gol Mundial 1 1080 (Opción 3)", Gol Mundial 1 1080 (Opción 3)
+acestream://aa0a5fd60f197eae4e3fbedc1206378a0c226590
+
+#EXTINF:-1 tvg-logo="https://i.blogs.es/af855d/gol_mundial-04/840_560.jpg" group-title="Gol Mundial" tvg-id="Gol Mundial 1 1080 MultiAudio", Gol Mundial 1 1080 MultiAudio
+acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
+
+#EXTINF:-1 tvg-logo="https://i.blogs.es/af855d/gol_mundial-04/840_560.jpg" group-title="Gol Mundial" tvg-id="Gol Mundial 2 1080 (Opción 2)", Gol Mundial 2 1080 (Opción 2)
+acestream://b67faee973e5a969a0adb02d476b78ef8cec4f3e
+
+#EXTINF:-1 tvg-logo="https://i.blogs.es/af855d/gol_mundial-04/840_560.jpg" group-title="Gol Mundial" tvg-id="Gol Mundial 1 720 (Opción 2)", Gol Mundial 1 720 (Opción 2)
+acestream://e80b91500a5679965a0cbab90f5eaf6cba6da2f3
+
+#EXTINF:-1 tvg-logo="https://i.blogs.es/af855d/gol_mundial-04/840_560.jpg" group-title="Gol Mundial" tvg-id="Gol Mundial 1 720 (Opción 3)", Gol Mundial 1 720 (Opción 3)
+acestream://bc125e7047cc7a83f58ae31c213899065d88794c
+
+#EXTINF:-1 tvg-logo="https://i.blogs.es/af855d/gol_mundial-04/840_560.jpg" group-title="Gol Mundial" tvg-id="Gol Mundial 2 720 (Opción 2)", Gol Mundial 2 720 (Opción 2)
+acestream://110aad976bda241b547ad69a5c7c6dc3c87cc4b9
+
